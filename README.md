@@ -4,7 +4,7 @@
 
 ## 📄 Resume / CV
 
-![Stefan Verheul CV](./StefanVerheul.jpg)](./StefanVerheul-2.pdf?download=true)
+[![Stefan Verheul CV](./StefanVerheul.jpg)](./StefanVerheul-2.pdf?download=true)
 
 *Click the preview image above to view or download the full PDF version.*
 
