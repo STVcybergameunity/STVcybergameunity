@@ -1,6 +1,9 @@
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cybergameunity@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cybergameunity@gmail.com)
+
+## 📄 Resume / CV:
+[![View CV](https://shields.io)](./StefanVerheul-2.pdf)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=STVcybergameunity&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
